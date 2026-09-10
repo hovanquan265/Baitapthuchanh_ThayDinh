@@ -1,0 +1,30 @@
+tr.header {
+    color: blue;
+    font-size: 25px;
+    
+}
+tr.row1 {
+    color: purple;
+    font-size: 14px ;
+}
+tr.row2 {
+    color: green;
+    font-size: 14px ;
+}
+tr.row3 {
+    color: red;
+    font-size: 14px ;
+}
+tr.row1:hover {
+    color: orange;
+}
+tr.row2:hover {
+    color: brown
+}
+tr.row3:hover {
+    color: teal;
+}
+
+table {
+    margin: 0 auto;
+}
